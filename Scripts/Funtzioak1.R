@@ -1,1 +1,1 @@
-funtzio <-function(x) {print(x)}
+funtzio <-function(x) {print(y)}
